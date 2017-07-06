@@ -7,5 +7,5 @@ allprojects {
 	}
 
 dependencies {
-	        compile 'com.github.summernecman:Videochat:v1.0.1'
+	        compile 'com.github.summernecman:Videochat:v1.0.2'
 	}
