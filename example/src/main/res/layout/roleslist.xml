@@ -5,7 +5,7 @@
     android:background="@drawable/background"
     android:orientation="vertical" >
 
-    <com.example.common.DragListView
+    <com.bairuitech.anychat.common.DragListView
         android:id="@+id/roleListView"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
